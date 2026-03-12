@@ -73,9 +73,6 @@ Agent system capable of **multi-step reasoning, tool calling, and automated work
 ### ⚙️ MLOps Model Serving Platform
 Production-style ML platform for **training, versioning, and model inference APIs**.
 
-### 📊 Distributed ML Training Pipeline
-Scalable ML pipeline supporting **training workflows, experiment tracking, and distributed computation**.
-
 ---
 
 ## 📊 GitHub Stats
